@@ -1,6 +1,6 @@
 (ns part1)
 
-(require '[clojure.str :as str])
+(require '[clojure.string :as str])
 
 (defn sum
   [line]
