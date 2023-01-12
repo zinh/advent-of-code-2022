@@ -21,3 +21,4 @@ pom.xml.asc
 *.input
 
 # End of https://www.toptal.com/developers/gitignore/api/clojure
+.cljs_node_repl
